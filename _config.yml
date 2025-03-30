@@ -3,3 +3,15 @@ description: To showcase my latest projects in Networking and Cybersecurity.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-hacker
+
+include:
+  - assets/css
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: default
+      css: assets/css/style.css
