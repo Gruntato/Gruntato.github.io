@@ -2,9 +2,9 @@
 layout: default
 ---
 
-Hello, Below are my projects that you can look at and my LinkedIn profile. 
+Hello, Below are my projects that you can look at.
 
-[Link to another page](./https://www.linkedin.com/in/austin-burnham/).
+[LinkedIn Page](https://www.linkedin.com/in/austin-burnham/).
 
 There should be whitespace between paragraphs.
 
