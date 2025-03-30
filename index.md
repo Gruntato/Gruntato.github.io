@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Hello, Below are my projects that you can look at.
+Hello, Below are my projects that you can look at and my LinkedIn profile. 
 
 [LinkedIn Page](https://www.linkedin.com/in/austin-burnham/).
 
