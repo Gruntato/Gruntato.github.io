@@ -18,9 +18,11 @@ Hello, Below are my projects that you can look at and my LinkedIn profile.
 
 <br/>
 
-<a href="mailto:burnhamaustin1998@gmail.com">
-  <i class="fas fa-envelope fa-2x" style="color:#ff00f7;"></i> Email Me
+<a href="mailto:burnhamaustin1998@gmail.com" style="text-decoration:none;" target="_blank">
+  <i class="fas fa-envelope fa-2x" style="color:#ff00f7; margin-right: 8px;"></i>
+  <span style="color:#ff00f7;">Email Me</span>
 </a>
+
 
 
 There should be whitespace between paragraphs.
