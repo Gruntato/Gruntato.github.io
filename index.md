@@ -4,7 +4,23 @@ layout: default
 
 Hello, Below are my projects that you can look at and my LinkedIn profile. 
 
-[LinkedIn Page](https://www.linkedin.com/in/austin-burnham/).
+## 🔗 Connect With Me
+
+<a href="https://www.linkedin.com/in/austinburnham/" target="_blank">
+  <i class="fab fa-linkedin fa-2x" style="color:#0ff;"></i> LinkedIn
+</a>
+
+<br/>
+
+<a href="https://github.com/Gruntato" target="_blank">
+  <i class="fab fa-github fa-2x" style="color:#fff;"></i> GitHub
+</a>
+
+<br/>
+
+<a href="mailto:burnhamaustin1998@gmail.com">
+  <i class="fas fa-envelope fa-2x" style="color:#ff00f7;"></i> Email Me
+</a>
 
 There should be whitespace between paragraphs.
 
