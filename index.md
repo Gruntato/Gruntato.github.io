@@ -6,7 +6,7 @@ Hello, Below are my projects that you can look at and my LinkedIn profile.
 
 ## 🔗 Connect With Me
 
-<a href="https://www.linkedin.com/in/austinburnham/" target="_blank">
+<a href="https://www.linkedin.com/in/austin-burnham/" target="_blank">
   <i class="fab fa-linkedin fa-2x" style="color:#0ff;"></i> LinkedIn
 </a>
 
