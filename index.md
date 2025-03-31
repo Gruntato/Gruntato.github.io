@@ -23,120 +23,69 @@ Hello, Below are my projects that you can look at and my LinkedIn profile.
   <span style="color:#0ff;">Email Me</span>
 </a>
 
+---
 
+##  Projects & Labs
 
-There should be whitespace between paragraphs.
+---
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+###  Project 1 – Network Fundamentals
 
-# Header 1
+**Project Name:**  
+-  **Tools Used:**  
+-  **Goal:**  
+-  **Skills Practiced:**  
+-  **Outcome:**  
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+*Notes:*  
 
-## Header 2
+*Screenshot Placeholder:*  
+![Network Screenshot](images/project1.png)
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+---
 
-### Header 3
+###  Project 2 – Security Fundamentals
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+**Project Name:**  
+-  **Tools Used:**  
+-  **Goal:**  
+-  **Skills Practiced:**  
+-  **Outcome:**  
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+*Notes:*  
 
-#### Header 4
+*Screenshot Placeholder:*  
+![Security Screenshot](images/project2.png)
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+---
 
-##### Header 5
+###  Project 3 – Cybersecurity Lab
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+**Project Name:**  
+-  **Tools Used:**  
+-  **Goal:**  
+-  **Skills Practiced:**  
+-  **Outcome:**  
 
-###### Header 6
+*Notes:*  
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+*Screenshot Placeholder:*  
+![Cyber Screenshot](images/project3.png)
 
-### There's a horizontal rule below this.
+---
 
-* * *
+###  Project 4 – Home Lab Setup
 
-### Here is an unordered list:
+**Project Name:**  
+-  **Tools Used:**  
+-  **Goal:**  
+-  **Skills Practiced:**  
+-  **Outcome:**  
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+*Notes:*  
 
-### And an ordered list:
+*Screenshot Placeholder:*  
+![Home Lab Screenshot](images/project4.png)
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+---
 
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
